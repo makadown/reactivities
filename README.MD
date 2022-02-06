@@ -1,5 +1,5 @@
 # Reactivities
-Course repository for the Skinet app created on .Net 5.0 and React.
+Course repository for the Reactivities app created on .Net 5.0 and React.
 Guided by Neil Cummings. Udemy Course here:
 
 [Udemy course](https://www.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react)
