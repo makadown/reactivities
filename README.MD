@@ -29,3 +29,12 @@ Create a new react app
 https://reactjs.org/docs/create-a-new-react-app.html
 ```
 
+Axios - Promised based HTTP client
+```
+https://github.com/axios/axios
+```
+
+Semantic UI React - The official React integration for Semantic UI
+```
+https://react.semantic-ui.com/
+```
