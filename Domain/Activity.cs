@@ -5,6 +5,10 @@ using System.Threading.Tasks;
 
 namespace Domain
 {
+    /// <summary>
+    /// This class represent an activity for the reactivities project.
+    /// Dont confuse with the system.diagnostics one =)
+    /// </summary>
     public class Activity
     {
         public Guid Id { get; set; }
