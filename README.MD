@@ -38,3 +38,8 @@ Semantic UI React - The official React integration for Semantic UI
 ```
 https://react.semantic-ui.com/
 ```
+
+Json to TS - helpful to create TS interfaces from POCOs
+```
+http://json2ts.com/
+```

@@ -2,9 +2,10 @@ import React, { useEffect, useState } from 'react';
 import './styles.css';
 import axios from 'axios';
 import { Header, List } from 'semantic-ui-react';
+import { Activity } from '../../models/activity';
 
 function App() {
-  const [activities, setActivites] = useState([]);
+  const [activities, setActivites] = useState<Activity[]>([]);
 
   useEffect(() => {
     // first
