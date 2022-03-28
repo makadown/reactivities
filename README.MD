@@ -43,3 +43,11 @@ Json to TS - helpful to create TS interfaces from POCOs
 ```
 http://json2ts.com/
 ```
+
+UUID - For the creation of RFC4122 UUIDs
+```
+https://github.com/uuidjs/uuid
+NOTE:
+to avoid any declaration file error, execute
+npm i --save-dev @types/uuid
+```
